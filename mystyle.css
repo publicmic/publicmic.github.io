@@ -1,13 +1,13 @@
 body {
-    background-color: #d0e4fe;
+    background-color: rgb(255,0,255);
 }
 
-h1, p {
+h1 {
     color: orange;
     text-align: center;
 }
 
-p {
+#slogan {
     font-family: "Times New Roman";
     font-size: 20px;
 }
