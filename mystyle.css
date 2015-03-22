@@ -9,11 +9,16 @@ h1 {
 }
 
 p {
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'PT Mono', ;
     font-size: 20px;
 }
 
 #slogan {
     font-family: 'Ubuntu', sans-serif;
     font-size: 20px;
+}
+.element {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
 }
