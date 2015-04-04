@@ -21,6 +21,13 @@ a {
   font-size: 0;
 }
 
+div > img {
+  width: auto;
+  height : auto;
+  max-height: 100%;
+  max-width: 100%;
+}
+
 
 article {
   width: 500px;
