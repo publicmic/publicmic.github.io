@@ -1,11 +1,11 @@
 nav {
-  background-color: #aaaaaa;
+  background-color: #FF5050;
   font-family: Arial, sans-serif;
 }
 
 a {
   background-color: #ff7900;
-  color: white;
+  color: yellow;
   text-decoration: none;
   display: block;
   float: left;
